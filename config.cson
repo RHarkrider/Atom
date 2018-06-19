@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "doc-green-ui"
+      "doc-green-syntax"
+    ]
+  "exception-reporting":
+    userId: "0fe6d9fe-0055-4b13-b8f0-10da8510fe0a"
